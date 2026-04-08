@@ -1,8 +1,13 @@
-### Hi, I’m Ismail 👋
-- 🎓 3nd-year Computer Engineering (English Program) student at Arel University
-- ☁️ Aspiring Cloud & Data Engineer
-- 📊 Passionate about Business Intelligence, ETL and Data Pipelines
-- 📚 Currently learning: Power BI, SQL, GCP, Python
-- 🚀 I’m building projects on GitHub and aiming for Google Data Engineer Certification
+Hi, I’m Ismail 👋
 
-- 📫 Reach me on: https://www.linkedin.com/in/ismail-tatli9/
+🎓 3rd-year Computer Engineering student (English Program) at Arel University
+
+💻 Interested in software development, data, and system design
+
+📊 Currently learning Python for Data Analysis, Machine Learning, and Data Analytics through Miull
+
+🧠 Improving my skills in system architecture, reverse engineering, problem solving, and requirements analysis
+
+🚀 Building projects on GitHub and continuously developing my technical skills
+
+📫 LinkedIn: https://www.linkedin.com/in/ismail-tatli9/
